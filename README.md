@@ -1,6 +1,6 @@
 # Python-UN-Correlation
 
-See also [PBI-UN-Correlation](https://www.google.com)
+See also [PBI-UN-Correlation](https://github.com/aaronmkwong/PBI-UN-Correlation)
 
 **Purpose**
 

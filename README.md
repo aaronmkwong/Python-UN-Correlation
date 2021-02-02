@@ -6,6 +6,6 @@ The objective of the program is to determine the extent to which gross domestic 
 
 **Visualization of Results**
 
-![alt text](https://github.com/aaronmkwong/Python-UN-Correlation/blob/main/Python-UN-Correlation.JPG)
+![alt text](https://github.com/aaronmkwong/Python-UN-Correlation/blob/main/Python_UN_Correlation.JPG)
 
      

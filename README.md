@@ -6,6 +6,8 @@ The objective of the program is to determine the extent to which gross domestic 
 
 **Visualization of Results**
 
+Europe is selected for the example.
+
 ![alt text](https://github.com/aaronmkwong/Python-UN-Correlation/blob/main/Python_UN_Correlation.JPG)
 
      
